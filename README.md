@@ -1,3 +1,6 @@
+[how to start](https://www.w3.org/TR/activitypub/?ref=axbom.com)
+
+#Orgins
 # BookWyrm
 
 [![](https://img.shields.io/github/release/bookwyrm-social/bookwyrm.svg?colorB=58839b)](https://github.com/bookwyrm-social/bookwyrm/releases)
